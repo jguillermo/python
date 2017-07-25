@@ -3,3 +3,4 @@
 script/.local/*
 script/.ipython/*
 script/.ipynb_checkpoints/*
+script/.jupyter/*
